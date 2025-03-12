@@ -1,3 +1,4 @@
+#This Script isolates SST at the required location using NOAA's API Request plugin for R - rerrdap
 # The packages we will need
 install.packages("dplyr")
 install.packages("lubridate")
